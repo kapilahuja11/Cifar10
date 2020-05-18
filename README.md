@@ -9,6 +9,6 @@
 6. CIFAR-10 is a labeled subset of the 80 million tiny images dataset. When the dataset was created, students were paid to        label all of the images.
 
 
-#Dataset
+# Dataset
 
 ![](download.jpeg)
