@@ -7,3 +7,8 @@
 4. Computer algorithms for recognizing objects in photos often learn by example. CIFAR-10 is a set of images that can be used      to teach a computer how to recognize objects.
 5. Since the images in CIFAR-10 are low-resolution (32x32), this dataset can allow researchers to quickly try different            algorithms to see what works. Various kinds of convolutional neural networks tend to be the best at recognizing the images      in CIFAR-10.
 6. CIFAR-10 is a labeled subset of the 80 million tiny images dataset. When the dataset was created, students were paid to        label all of the images.
+
+
+#Dataset
+
+![](download.jpeg)
